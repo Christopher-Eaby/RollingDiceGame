@@ -1,0 +1,20 @@
+
+Roll : 5
+Roll : 4
+Roll : 6
+Roll : 3
+Roll : 3
+Roll : 2
+Roll : 3
+Total :26
+Roll : 2
+Roll : 6
+Roll : 2
+Roll : 1
+Roll : 6
+Total :17
+Roll : 4
+Roll : 1
+Roll : 2
+Roll : 2
+Total :9
